@@ -19,7 +19,7 @@
 Designed my portfolio using React.
 ## Link to application
 
-https://online-offline-budget-app.herokuapp.com/
+https://brian-react-portfolio.herokuapp.com/
 
 ## Installation
 React
