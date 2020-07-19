@@ -1,0 +1,65 @@
+
+/*  I took the page header class and added a top margin to help lower the title from the navbar.*/
+
+.page-header{ 
+    margin-top: 30px;
+    
+}
+
+/* made this class to show the dividing line between the h1 tag and the rest of the document for style purposes.*/
+
+h1{ 
+    border-bottom: 1px solid;
+    
+    
+}
+/* Made this class to space out  my p tag from my h1 tag */
+
+p { 
+    margin-top: 10px;
+}
+
+/* I created this title to visibly space out my h1 title from the image and the rest of the document tags. */
+
+.seperate {
+    margin-top: 10px;
+}
+
+/* I created this footer to tag to show that this is the end of the document. I tried styling it to make it sticky.*/
+
+#sticky-footer {
+    
+    flex-shrink: none;
+    margin-top: 200px;    
+
+}
+
+#logo {
+    font-family: Georgia, Times, "Times New Roman", serif;
+
+  /* Typography */
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+
+  /* Visual */
+  background: #4aaaa5;
+}
+.seperate {      
+    margin-top: 30px;
+}
+
+body {
+    /* Typography */
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  
+    /* Visual */
+    background-image: url("images1/photo 3.jpeg");
+  }
+
+.block-header {
+  /* Typography */
+  
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
