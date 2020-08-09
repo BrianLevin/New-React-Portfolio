@@ -9,12 +9,12 @@ This is my Portfolio designed using React.
 
 
  This is the about me page:
-  ![Home Screenshot](images/home.png) 
+  ![Home Screenshot](src/images/home.png) 
   
   
   This is the portfolio page:
   
-   ![Home Screenshot](images/portfolio.png) 
+   ![Home Screenshot](src/images/portfolio.png) 
    
 ## Badges
 
