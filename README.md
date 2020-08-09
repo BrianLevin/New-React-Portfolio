@@ -1,13 +1,22 @@
 # React-Portfolio
 
+## Description
+
+This is my Portfolio designed using React.
 
 
+ ## Click [here](https://brian-react-portfolio.herokuapp.com/) for the live app. 
 
 
- ![](public/images1/PortfolioSS.png) 
- 
- 
-# Badges
+ This is the about me page:
+  ![Home Screenshot](images/home.png) 
+  
+  
+  This is the portfolio page:
+  
+   ![Home Screenshot](images/portfolio.png) 
+   
+## Badges
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/BrianLevin/New-React-PortFolio)
 
@@ -15,29 +24,20 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/BrianLevin?style=social)
 
-## Description
-Designed my portfolio using React.
-## Link to application
 
-https://brian-react-portfolio.herokuapp.com/
 
 ## Installation
-React
+- react
 
-React  Dom
+- react-dom
 
-React Router Dom
+- react-router-dom
 
-React Scripts
+- react-scripts
+   
 
-     
-     
-
-## License:
-
-      1.0.0 
-
-
-### Email:
+## Email:
 
         bml201095@gmail.com
+        
+       
