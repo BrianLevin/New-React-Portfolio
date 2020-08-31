@@ -62,14 +62,10 @@ class Portfolio extends Component {
                                         <img src="images1/Weatherapp.png" className="image-responsive" width="100%"
                                             alt="Weather Dashboard Home Page" />
                                         <div className="card-body">
-                                            <h5 className="card-title">Weather DashBoard</h5>
-                                            <p className="card-text">Isn't it great to know the weather for the next 5 days in multiple
-                                                cities? In this project, thats exactly what we did with obtaining the temperature,
-                                                humidity, and the weather for the selected city. The languages Included using Html
-                                                and Css for the content and styling. I used JavaScript and Jqquery for the
-                                    functinality and used the Weather.org API and an Ajax call to fetch the data. </p>
-                                            <a href="https://brianlevin.github.io/Weather-Dashboard/">Deployed Application</a>
-                                            <a href="https://github.com/BrianLevin/Weather-Dashboard"> GitHub Repository</a>
+                                            <h5 className="card-title">Google Book Search</h5>
+                                            <p className="card-text"> There is no better way to find and buy your favorite books using Googles book search API! with this application users can search for a selected book, view  and or save that book so they can purchase later, or delete the selected saved book. This project was built using  React, Node, Express, and MongoDB</p>
+                                            <a href="https://google-book-search-app-finder.herokuapp.com/">Deployed Application</a>
+                                            <a href="https://github.com/BrianLevin/Google-Book-Search"> GitHub Repository</a>
                                         </div>
                                     </div>
                                 </div>
@@ -78,14 +74,10 @@ class Portfolio extends Component {
                                         <img src="images1/RandomPasswordGenerator.png" className="image-responsive" width="100%"
                                             alt="Random Password Generator Homepage" />
                                         <div className="card-body">
-                                            <h5 className="card-title">Random Password Generator</h5>
-                                            <p className="card-text">Sometimes it's just to hard to come up with your own password. In
-                                                this project. I created a Random Password Generator which included prompts for the
-                                                user to choose from. The Syntax used for this assignment consisted of Html for the
-                                                webpage conttent and a BootStrap CSS framework. JavaScript was also utilized to
-                                    create the random functionality of the password. </p>
-                                            <a href="https://brianlevin.github.io/Brian-Levin-Homework-3/">Deployed Application </a>
-                                            <a href="https://github.com/BrianLevin/Brian-Levin-Homework-3">GitHub Repository</a>
+                                            <h5 className="card-title">Workout Tracker</h5>
+                                            <p className="card-text"> Wouldn't it be great to create and track your daily workouts? well now you can! This application allows users to  create, track, and save  their daily workouts  including the type, weight, sets, reps, duration  and  distanced traveled with cardio based workouts.  </p>
+                                            <a href="https://workout-tracker123.herokuapp.com/?id=5ef685193eeb65001749e0bc">Deployed Application </a>
+                                            <a href="https://github.com/BrianLevin/Workout-Tracker">GitHub Repository</a>
                                         </div>
                                     </div>
                                 </div>
@@ -95,7 +87,7 @@ class Portfolio extends Component {
                                             alt="future project goes here" />
                                         <div className="card-body">
                                             <h5 className="card-title">Personal Training Portal</h5>
-                                            <p className="card-text"> Finally, A database to manage my personal training clients! This
+                                            <p className="card-text"> Finally, A database to manage my personal training clients that my group and I built! This
                                                 database allows the user to sign up, then the manager adds all their personal
                                                 information, and then from their the manager can add and delete notes about each
                                                 client that has signed up and added their information. For this project we used the
@@ -128,12 +120,10 @@ class Portfolio extends Component {
                                         <img src="images1/CalenderSchedule.png" className="card-img-top" width="100%"
                                             alt="future project goes here" />
                                         <div className="card-body">
-                                            <h5 className="card-title">Daily Calender</h5>
-                                            <p className="card-text">Plan your day with a daily calender which will show the past
-                                                current and future time and save events for those time blocks! Syntax used included
-                                    HTML, CSS, Javascript, Jquery, and Moment Js.</p>
-                                            <a href="https://brianlevin.github.io/Work-Day-Scheduler/">Deployed application</a>
-                                            <a href="https://github.com/BrianLevin/Work-Day-Scheduler">Github Repository</a>
+                                            <h5 className="card-title">Employee Directory</h5>
+                                            <p className="card-text">Find employees in your company using a Directory! This react based employee directory allows users sor through employees name alphabetically or  specifically filter through and look up  the employees name.  </p>
+                                            <a href="https://employee-directory4.herokuapp.com/">Deployed application</a>
+                                            <a href="https://github.com/BrianLevin/Employee-Directory">Github Repository</a>
 
                                         </div>
                                     </div>
