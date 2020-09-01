@@ -49,8 +49,7 @@ class Home extends Component {
                                 <h5 id='text-center'></h5>
                                 <a href="bml201095@gmail.com">bml201095@gmail.com</a>
                                 <a href="tel: 610-937-6248">610-937-6248</a>
-                                <a
-                                    href="https://drive.google.com/file/d/1Ubig4ad8KpI8fII9D2gns0vMORwlUoUo/view?usp=sharing">Resume</a>
+                                <a href="https://drive.google.com/file/d/1iHasHd1E9h9zNq0MY_P5im6zOrjHd_pW/view?usp=sharing">Resume</a>
                                 <a href="https://github.com/BrianLevin"><img src='images1/GitHub_Logo.png'
                                     className='img-responsive' width='15%' /> </a>
                                 <a href="https://www.linkedin.com/in/brian-levin-01a871b6/"><img src='images1/LI-Logo.png'
