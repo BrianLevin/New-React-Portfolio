@@ -59,8 +59,8 @@ class Portfolio extends Component {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="images1/Weatherapp.png" className="image-responsive" width="100%"
-                                            alt="Weather Dashboard Home Page" />
+                                        <img src="images1/google.png" className="image-responsive" width="100%"
+                                            alt="Google-Book-Search" />
                                         <div className="card-body">
                                             <h5 className="card-title">Google Book Search</h5>
                                             <p className="card-text"> There is no better way to find and buy your favorite books using Googles book search API! with this application users can search for a selected book, view  and or save that book so they can purchase later, or delete the selected saved book. This project was built using  React, Node, Express, and MongoDB</p>
@@ -71,8 +71,8 @@ class Portfolio extends Component {
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="images1/RandomPasswordGenerator.png" className="image-responsive" width="100%"
-                                            alt="Random Password Generator Homepage" />
+                                        <img src="images1/workout.png" className="image-responsive" width="100%"
+                                            alt="Workout-Tracker" />
                                         <div className="card-body">
                                             <h5 className="card-title">Workout Tracker</h5>
                                             <p className="card-text"> Wouldn't it be great to create and track your daily workouts? well now you can! This application allows users to  create, track, and save  their daily workouts  including the type, weight, sets, reps, duration  and  distanced traveled with cardio based workouts.  </p>
@@ -84,7 +84,7 @@ class Portfolio extends Component {
                                 <div className="col mb-4">
                                     <div className="card h-100">
                                         <img src="images1/main.png" className="card-img-top" width="100%"
-                                            alt="future project goes here" />
+                                            alt="Personal Training Portal" />
                                         <div className="card-body">
                                             <h5 className="card-title">Personal Training Portal</h5>
                                             <p className="card-text"> Finally, A database to manage my personal training clients that my group and I built! This
@@ -102,23 +102,23 @@ class Portfolio extends Component {
 
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="images1/Notetaker.png" className="card-img-top" width="100%" alt="Note Taker" />
+                                        <img src="images1/expensify.png" className="card-img-top" width="100%" alt="Expensify" />
                                         <div className="card-body">
-                                            <h5 className="card-title">Note Taker</h5>
-                                            <p className="card-text">Write down, save, and delete daily notes using backend development!
-                                                This is a great application for note taking. The frame works and libraries used
-                                                included: Html, Css, Javascript, Node Js, Express Js.
+                                            <h5 className="card-title">Expensify</h5>
+                                            <p className="card-text">An Application that allows users to  add expenses, filter through expenses, edit expenses, look up expenses by date, and remove expenses!
+                                                The libraries and frameworks include: React, Moment, Express, Firebase, History, Node-Sass, Normalize.CSS, React-Dom, React-Scripts, Numeral, React-Model, React-Redux. React-Router-Dom, Redux, Redux-Mock-Store, Redux-Thunk, Sass-Loader, Style-Loader, UUID,
+                                                Validator, React-Addons-Shallow-Compared, CSS-Loader, React-Dates, Extract-Text-WebpackPlugin
                                 </p>
-                                            <a href="https://serene-crag-34434.herokuapp.com/">Deployed Application</a>
-                                            <a href="https://github.com/BrianLevin/Note-Taker">Github Repository</a>
+                                            <a href="https://expensifyyyyyy.herokuapp.com/">Deployed Application</a>
+                                            <a href="https://github.com/BrianLevin/Expensify">Github Repository</a>
 
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col mb-4">
                                     <div className="card h-100">
-                                        <img src="images1/CalenderSchedule.png" className="card-img-top" width="100%"
-                                            alt="future project goes here" />
+                                        <img src="images1/directory.png" className="card-img-top" width="100%"
+                                            alt="Directory" />
                                         <div className="card-body">
                                             <h5 className="card-title">Employee Directory</h5>
                                             <p className="card-text">Find employees in your company using a Directory! This react based employee directory allows users sor through employees name alphabetically or  specifically filter through and look up  the employees name.  </p>
