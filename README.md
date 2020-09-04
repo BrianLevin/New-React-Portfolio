@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my Portfolio designed using React.
+This is my portfolio designed using React.
 
 
  ## Click [here](https://brian-react-portfolio.herokuapp.com/) for the live app. 
