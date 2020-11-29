@@ -102,7 +102,7 @@ class Portfolio extends Component {
 
                                     <div className="col mb-4">
                                         <div className="card h-100">
-                                            <img src="images1/expensify.png" className="card-img-top" width="100%" alt="Expensify" />
+                                            <img src="images1/indescision.png" className="card-img-top" width="100%" alt="Expensify" />
                                             <div className="card-body">
                                                 <h5 className="card-title">Indecision App</h5>
                                                 <p className="card-text"> An Application that allows users  to post options what they need to do and then  the user will click a button which will ramdonly select and choose what task they should do and complete.
