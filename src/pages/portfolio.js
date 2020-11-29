@@ -104,13 +104,11 @@ class Portfolio extends Component {
                                         <div className="card h-100">
                                             <img src="images1/expensify.png" className="card-img-top" width="100%" alt="Expensify" />
                                             <div className="card-body">
-                                                <h5 className="card-title">Expensify</h5>
-                                                <p className="card-text">An Application that allows users to  add expenses, filter through expenses, edit expenses, look up expenses by date, and remove expenses!
-                                                    The libraries and frameworks include: React, Moment, Express, Firebase, History, Node-Sass, Normalize.CSS, React-Dom, React-Scripts, Numeral, React-Model, React-Redux. React-Router-Dom, Redux, Redux-Mock-Store, Redux-Thunk, Sass-Loader, Style-Loader, UUID,
-                                                    Validator, React-Addons-Shallow-Compared, CSS-Loader, React-Dates, Extract-Text-WebpackPlugin
+                                                <h5 className="card-title">Indecision App</h5>
+                                                <p className="card-text"> An Application that allows users  to post options what they need to do and then  the user will click a button which will ramdonly select and choose what task they should do and complete.
                                 </p>
-                                                <a href="https://expensifyyyyyy.herokuapp.com/">Deployed Application</a>
-                                                <a href="https://github.com/BrianLevin/Expensify">Github Repository</a>
+                                                <a href="https://indescision.herokuapp.com/">Deployed Application</a>
+                                                <a href="https://github.com/BrianLevin/Indecision-App">Github Repository</a>
 
                                             </div>
                                         </div>
